@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/astronomer/eslint-config-astro"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "eslint",
     "eslint-config",
