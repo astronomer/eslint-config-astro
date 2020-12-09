@@ -23,11 +23,9 @@
   "author": "Astronomer, Inc.",
   "license": "ISC",
   "peerDependencies": {
-    "eslint-config-airbnb-base": "^14.2.1"
-  },
-  "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.7.0",
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-jest": "^24.1.3"
   }
 }
