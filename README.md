@@ -1,6 +1,6 @@
 # Astronomer ESLint Config
 
-Add `eslint` and `@astronomer/eslint-config-astro` as a `devDependency` to your project:
+Add `@astronomer/eslint-config-astro` as a `devDependency` to your project:
 
 ```bash
 yarn add eslint @astronomer/eslint-config-astro --dev
